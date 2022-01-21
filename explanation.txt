@@ -1,0 +1,3 @@
+Ssh -> untuk execute command dan logging ke remote machine
+Ecdsa -> Elliptic Curve Digital Signature Algorithm -> memberikan / membuat Digital Signature Algorithm dengan menggunakan Elliptic Curve Algorithm
+

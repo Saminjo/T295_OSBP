@@ -1,0 +1,20 @@
+1.ssh-keygen –t ecdsa
+NAR22-1
+NAR22-1
+Cd /home/prk/.ssh
+Ls
+Cat id_ecdsa
+Cat id_ecdsa.pub
+
+2.sudo apt get update 
+sudo apt install openssh-server 
+sudo systemctl status ssh 
+ip a 
+ssh prk@[ip]
+
+
+16.alias show=”ls -A”
+
+15. file ???.*
+
+20. echo ”$SHEL”
